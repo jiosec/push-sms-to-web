@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/Debashis/AndroidStudioProjects/sms/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
-        "source": "/Users/Debashis/AndroidStudioProjects/sms/app/src/main/res/drawable-ldpi/icon.png"
+        "merged": "C:\\Users\\Debashis\\AndroidStudioProjects\\sms\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\Debashis\\AndroidStudioProjects\\sms\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaojun Jiang\\AndroidStudioProjects\\push-sms-to-web\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\Xiaojun Jiang\\AndroidStudioProjects\\push-sms-to-web\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
     }
 ]
